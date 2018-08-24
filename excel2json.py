@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+#usage - python excel2json.py <path to excel file>
 import openpyxl
 import json
 import sys
